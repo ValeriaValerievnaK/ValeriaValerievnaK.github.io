@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Valeria Kartasheva
 ===========================================================================================================================================
 
-I'am junior frontend developer
+I'am frontend developer
 
 * 🌍  I'm based in Россия
 * ✉️  You can contact me at [valeriakartaseva39@gmail.com](mailto:valeriakartaseva39@gmail.com)
