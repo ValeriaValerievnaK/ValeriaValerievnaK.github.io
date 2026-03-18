@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'am frontend developer
 
-* 🌍  I'm based in Россия
+* 🌍  I'm based in Russia
 * ✉️  You can contact me at [valeriakartaseva39@gmail.com](mailto:valeriakartaseva39@gmail.com)
 
 <p align="left">
